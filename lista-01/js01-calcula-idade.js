@@ -5,7 +5,7 @@
  * - pesquise como pegar o ano atual em JS
  * - altere a expressão da var idade para usar o ano atual
  * - use node para rodar este script js
- *   $ node lista-01-01/js01-calcula-idade.js
+ *   $ node lista-01/js01-calcula-idade.js
  *   👉 Quem nasceu em 2002, sua idade é 20
  *  - altere a variável para outros anos e verifique a resposta está correta
  */
