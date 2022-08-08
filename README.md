@@ -12,11 +12,11 @@
 
 ```bash
 
-node exercicio-01-01/js01-calcula-idade.js
+node lista-01/js01-calcula-idade.js
 
 OU
 
-cd exercicio-01-01/
+cd lista-01/
 node js01-calcula-idade.js
 
 ```
