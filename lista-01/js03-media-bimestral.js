@@ -26,9 +26,6 @@
 // Entrada
 var notas = [10, 8, 9.5, 7, 10]
 
-// Altere a expressão abaixo para calcular cm com base na var metros
-var media, quantidadeDeNotas
-var total = 0
 
 // Faça um loop para achar o total de notas
 
