@@ -1,12 +1,12 @@
 /**
- * Faça um programa que retorne true ou false conforme a entrada Y,y,yes,S,sim 
+ * Faça um programa que dado um texto de entrada, imprima o texto
+ * criptografado. A criptografia inicial é bem simples,
+ * apenas converta a para b, b para c e assim por diante. 
  * 
  * ENTRADA          SAÍDA
  * abacate          bcbduf
  * zebra            @fcsb
  * Zebra            $fcsb
- * 
- * 
  * 
  * DICAS:
  * É uma variante do exercício js06
@@ -21,9 +21,10 @@
  */
 
 // Entrada
-var entrada = 'J'
+var texto = 'abacate'
 
-// implemente aqui o condicional para retornar o boolean (true/false) com base na entrada
-var resultado = false
+// implemente aqui uma lógica para criptografar o texto
 
-console.log(resultado)
+var textoCripto = 'bcbduf'
+
+console.log(textoCripto)
