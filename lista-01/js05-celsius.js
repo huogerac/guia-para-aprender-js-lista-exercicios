@@ -19,6 +19,6 @@
 var fahrenheit = 76
 
 // Altere a expressão abaixo para converter Fahrenheit em Celcius
-var celcius = 32
+var celsius = 32
 
-console.log(celcius)
+console.log(celsius)
