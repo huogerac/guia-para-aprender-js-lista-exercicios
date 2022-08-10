@@ -26,7 +26,7 @@
 // Entrada
 var notas = [10, 8, 9.5, 7, 10]
 
-// Altere a expressão abaixo para calcular cm com base na var metros
+// Altere a expressão abaixo para calcular a média a partir do total de notas
 var media, quantidadeDeNotas
 var total = 0
 
