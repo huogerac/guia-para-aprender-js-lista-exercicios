@@ -19,7 +19,7 @@
 var anoNascimento = 2002
 
 // Tem que pegar o ano atual usando JS e subtrair a var acima
-var idade = 2022 - anoNascimento
+var idade = new Date().getFullYear() - anoNascimento
 
 var resultado = '👉 Quem nasceu em ' + anoNascimento + ', sua idade é ' + idade
 
