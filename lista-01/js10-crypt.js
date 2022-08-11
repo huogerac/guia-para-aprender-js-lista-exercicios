@@ -18,6 +18,9 @@
  * o código ASCII de forma a incrementar 1, ou seja, mudar de a para b, b para c 
  * e assim por diante!
  * quando for z ou Z mudar para @ e $ respectivamente ao invés de {
+ * 
+ * IMPORTANTE:
+ * - Não usar bibliotecas, basta manipular a string de entrada de forma a embaralhá-la
  */
 
 // Entrada
