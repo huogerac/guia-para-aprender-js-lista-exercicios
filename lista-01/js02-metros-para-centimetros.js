@@ -4,7 +4,7 @@
  * ENTRADA         SAÍDA
  *    1              100
  *  100            10000
- *   .5              500
+ *   .5               50
  * 
  * Tarefa:
  * - Altere a variável cm para calcular o valor com base na entrada (metros)
