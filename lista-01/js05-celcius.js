@@ -1,10 +1,11 @@
 /**
- * Faça um programa que converta metros para centímetros
+ * Faça um Programa que peça a temperatura em Fahrenheit, 
+ * transforme e mostre graus Celsius. 
  * 
  * ENTRADA         SAÍDA
  *    1              100
  *  100            10000
- *   .5               50
+ *   .5              500
  * 
  * Tarefa:
  * - Altere a variável cm para calcular o valor com base na entrada (metros)
@@ -15,11 +16,9 @@
  */
 
 // Entrada
-var metros = 1
+var fahrenheit = 76
 
-// Altere a expressão abaixo para calcular cm com base na var metros
-var cm = 100
+// Altere a expressão abaixo para converter Fahrenheit em Celcius
+var celcius = 32
 
-var resultado = '👉 ' + metros + ' metro(s) == ' + cm + ' centímetro(s)'
-
-console.log(resultado)
+console.log(celcius)
