@@ -7,7 +7,7 @@
  * - use node para rodar este script js
  *   $ node lista-01/js01-calcula-idade.js
  *   👉 Quem nasceu em 2002, sua idade é 20
- *  - altere a variável para outros anos e verifique a resposta está correta
+ *  - altere a variável para outros anos e verifique se a resposta está correta
  * 
  * IMPORTANTE:
  * - Não precisa obter do usuário os dados de entrada
