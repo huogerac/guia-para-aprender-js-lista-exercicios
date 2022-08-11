@@ -28,6 +28,9 @@
 // Entrada
 var notas = [10, 8, 9.5, 7, 10]
 
+// Altere a expressão abaixo para calcular a média a partir do total de notas
+var media, quantidadeDeNotas
+var total = 0
 
 // Faça um loop para achar o total de notas
 
