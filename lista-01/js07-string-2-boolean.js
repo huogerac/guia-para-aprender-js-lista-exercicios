@@ -1,7 +1,7 @@
 /**
  * Faça um programa que retorne true ou false conforme a entrada Y,y,yes,S,sim
- * 
- * ENTRADA          SAÍDA
+ *
+ * ENTRADA                   SAÍDA
  * Y                         true
  * Yes, YES, yes             true
  * y                         true
@@ -14,9 +14,9 @@
  */
 
 // Entrada
-var entrada = 'J'
+var entrada = "J";
 
 // implemente aqui o condicional para retornar o boolean (true/false) com base na entrada
-var resultado = false
+var resultado = false;
 
-console.log(resultado)
+console.log(resultado);
