@@ -3,7 +3,7 @@
  * Se os valores de entrada não forem números válidos, imprima uma mensagem de aviso.
  * 
  * ENTRADA                           SAÍDA
- *    10 e 20                        20
+ *    10 e 20                        30
  *    40.5 e 1.5                     42
  *    40,5 e 1,5                     42
  *    A e 40                         'A' não é um número
