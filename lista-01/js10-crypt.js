@@ -24,11 +24,12 @@
  */
 
 // Entrada
-var texto = 'Zebra'
+var texto = 'bcbdbuf'
 
 // implemente aqui uma lógica para criptografar o texto
 
 var textoCripto = []
+const KEY = -1
 
 for (i of texto){
     if (i == 'z'){ 
@@ -36,7 +37,7 @@ for (i of texto){
     else if (i == 'Z'){
         textoCripto += '$'}
     else{
-    textoCripto += String.fromCharCode(i.charCodeAt(i) +1)}
+    textoCripto += String.fromCharCode(i.charCodeAt(i) + KEY)}
 }
 console.log(textoCripto)
 
