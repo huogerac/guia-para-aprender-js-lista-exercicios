@@ -10,9 +10,11 @@
 */
 
 // Entrada
-var entrada = 'a'
-
+var entrada = 'A'
+let vogais = ['a', 'e', 'i', 'o', 'u']
 // implemente aqui o condicional para retornar o boolean (true/false) com base na entrada
-var resultado = 'vogal'
-
-console.log(resultado)
+if (vogais.indexOf(entrada.toLowerCase()) !== -1) {
+    console.log('Vogal')
+} else {
+    console.log('Consoante')
+}
