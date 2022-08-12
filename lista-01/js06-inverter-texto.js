@@ -11,6 +11,6 @@
 var entrada = 'abacate'
 
 // gere a variável invertido de forma a transforma a entrada na saída esperada
-var invertido = '?'
+var invertido = entrada.split('').reverse().join('')
 
 console.log(invertido)
