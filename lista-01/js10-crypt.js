@@ -14,7 +14,7 @@
  * (cada caracter no teclado tem uma representação numérica)
  * Pesquise os métodos de String fromCharCode que converte a para 97
  * e charCodeAt que faz 97 voltar para a
- * Assim, no podemos usar um método bem simples de criptografia que seria mudar
+ * Assim, nos podemos usar um método bem simples de criptografia que seria mudar
  * o código ASCII de forma a incrementar 1, ou seja, mudar de a para b, b para c 
  * e assim por diante!
  * quando for z ou Z mudar para @ e $ respectivamente ao invés de {

@@ -36,7 +36,7 @@ node js01-calcula-idade.js
 
 - Não precisa utilizar funções (functions)
 - Não precisa fazer uma página web (HTML) para testar os programas
-- Não precisa utilizar `readline` para ler dados de entrada do usuário. Utilize a variável, anterando seu valor manualmente para cada caso de uso
+- Não precisa utilizar `readline` para ler dados de entrada do usuário. Utilize a variável, alterando seu valor manualmente para cada caso de uso
 - Altere as variáveis para valores diferentes (conforme as entradas) para testar para diferentes casos
 - Não crie do zero, utilize os arquivos com a estrutura para te ajudar
 - Utilize o mesmo nome de arquivo para facilitar a revisão de código
