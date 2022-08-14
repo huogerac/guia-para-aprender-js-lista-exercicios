@@ -1,8 +1,8 @@
 /**
- * Faça um programa que faça a soma de todos os números de uma lista de números
- * 
+ * Faça um programa que calcule a média de todos os números de uma lista de números
+ *
  * ENTRADA              SAÍDA
- * [1,3,5,7,8,10]        5.7
+ * [1,3,5,7,8,10]       5.7
  * [1,1,40]             14.0
  */
 
